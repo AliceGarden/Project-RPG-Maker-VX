@@ -1,0 +1,40 @@
+==============
+~Faceset genrator~
+==============
+
+
+
+~Usage:
+->create RMVX RMXP Character tilesets or create avatar for online profiles.
+
+~Requirments:
+->.NET framework 2.0
+->windows xp/7
+
+~Changelogs:
+->Added RMVX Character tilesets Creator.
+->Added few sets
+->fix minor bugs
+->added 2 types of save format
+->fix clear and undo style buttons
+->new loadscreen
+->database can be filled with new styles
+============
+      ~Credits~
+============
+->Cellianas faceset generator.(my basis for this generator).
+->Pentagon Buddy for the Graphics.
+
+
+============
+         ~FAQ~
+============
+->the application cant run in my computer.
+    ~your computer has to have atleast .net framework with version 2.0[3.5 recommended] or higher, you can have free download on micrsoft.com. 
+    ~if your using win7 then you can try to right clciking on the app and click > run as admin.
+    ~if still dosnt work u can comment me on my deviantart profile [www.viscocent.deviantart.com].
+
+->ive found some bugs, not what should i do?.
+    ~you can pm me on rpgmakervx.net [viscocent] or my deviantart profile [viscocent.deviantart.com].
+
+
